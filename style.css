@@ -1,0 +1,61 @@
+body{ 
+    background-image: url(./images/image\ 4.jpg); 
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+ul { 
+    display: flex; 
+    gap: 35px; 
+    justify-content: space-between; 
+} 
+li{ 
+    list-style: none; 
+} 
+a{ 
+    text-decoration: none; 
+    color: white ; 
+} 
+.menu{ 
+    display: flex; 
+    align-items: center; 
+    gap: 50px; 
+} 
+nav{ 
+    width: 100%; 
+} 
+p{ 
+    color: white; 
+} 
+h1{
+    padding-top: 100px; 
+    padding-left: 100px;
+    justify-content: center; 
+    align-items: center; 
+    color: white; 
+    font-family:'Franklin Gothic Medium';
+    font-style: normal;
+    font-size: 80px;
+    font-weight: 700;
+    line-height: 10px;
+
+} 
+h2{ 
+    padding-top: 10px;
+    padding-left: 100px;
+    color: yellow; 
+    font-family:'Franklin Gothic Medium';
+    font-style: normal;
+    font-size: 55px;
+    font-weight: 500;
+    line-height: 0px;
+} 
+img {
+    display: flex;
+    padding-top: 120px;
+    width: 100%;
+    width: 300px;
+    padding-left: 250px;
+}
+.row {
+    display: flex;
+}
